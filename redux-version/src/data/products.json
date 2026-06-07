@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Wireless Headphones",
+    "price": 299,
+    "description": "Experience crystal clear sound with industry-leading noise cancellation.",
+    "image": "/headphones.png"
+  },
+  {
+    "id": "2",
+    "name": "Luxury Smartwatch",
+    "price": 399,
+    "description": "Stay connected and track your health with elegance and precision.",
+    "image": "/watch.png"
+  },
+  {
+    "id": "3",
+    "name": "Vintage Mirrorless Camera",
+    "price": 899,
+    "description": "Capture life's moments with stunning clarity and classic style.",
+    "image": "/camera.png"
+  }
+]
