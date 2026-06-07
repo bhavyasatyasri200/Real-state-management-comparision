@@ -23,9 +23,9 @@
 ## Visual Evidence
 
 ### Profiling Screenshots
-- **Context Optimized**: ![Context Optimized](profiling/context-optimized-profile.png)
-- **Zustand**: ![Zustand](profiling/zustand-profile.png)
-- **Redux Toolkit**: ![Redux Toolkit](profiling/redux-toolkit-profile.png)
+- **Context Optimized**: ![Context Optimized](profiling/context.png)
+- **Zustand**: ![Zustand](profiling/zustand.png)
+- **Redux Toolkit**: ![Redux Toolkit](profiling/redux-version.png)
 
 ### Bundle Analysis
 - **Zustand**: ![Zustand Bundle](bundle-analysis/zustand-bundle.png)
