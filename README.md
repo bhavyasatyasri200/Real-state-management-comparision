@@ -2,6 +2,11 @@
 
 This repository contains three separate, runnable implementations of a shopping cart application to benchmark and compare modern React state management solutions.
 
+## Live Demo
+- **Context Version**: ```https://context-version.vercel.app/```
+- **Redux Version**: ```https://redux-version.vercel.app/```
+- **Zustand Version** ```https://zustand-version.vercel.app/```
+  
 ## Architecture
 
 - **Context Version**: Implements both Naive (single provider) and Optimized (split provider) patterns.
