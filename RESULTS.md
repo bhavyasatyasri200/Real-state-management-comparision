@@ -29,7 +29,7 @@
 
 ### Bundle Analysis
 - **Zustand**: ![Zustand Bundle](bundle-analysis/zustand-bundle.png)
-- **Redux Toolkit**: ![Redux Bundle](bundle-analysis/redux-toolkit-bundle.png)
+- **Redux Toolkit**: ![Redux Bundle](bundle-analysis/redux-version-bundler.png)
 
 ### Decision Guide
 
