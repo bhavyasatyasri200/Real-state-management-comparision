@@ -32,6 +32,15 @@ docker-compose up --build
 ```
 The Redux version will be available at `http://localhost:8080`.
 
+## Profiling
+To analyze the performance and re-render behavior:
+1.  Install the **React Developer Tools** extension.
+2.  Open the application in your browser.
+3.  Open DevTools (`F12`) and go to the **Profiler** tab.
+4.  In Settings, enable **"Record why each component rendered"**.
+5.  Click **Record**, interact with the app (e.g., click "Add to Cart" multiple times), and then click **Stop**.
+6.  The resulting flame graph will show you exactly which components rendered and why.
+
 ## Results
 See [RESULTS.md](./RESULTS.md) for a detailed comparison and decision guide.
 
