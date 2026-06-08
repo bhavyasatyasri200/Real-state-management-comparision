@@ -34,3 +34,17 @@ The Redux version will be available at `http://localhost:8080`.
 
 ## Results
 See [RESULTS.md](./RESULTS.md) for a detailed comparison and decision guide.
+
+## Bundle Analysis
+To generate your own real-time bundle analysis reports, run:
+
+```bash
+# For Zustand Version
+cd zustand-version
+npx -y vite-bundle-visualizer
+
+# For Redux Version
+cd redux-version
+npx -y vite-bundle-visualizer
+```
+This will open a browser window with a treemap of your bundle. You can then take a screenshot of that and replace the files in the `bundle-analysis/` directory.
